@@ -1,0 +1,1 @@
+This program uses four buttons with pullups to play sounds off of an SD card using the https://github.com/TMRh20/TMRpcm.git library. It is being used to replace a device that stopped working.
